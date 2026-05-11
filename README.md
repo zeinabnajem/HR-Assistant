@@ -32,3 +32,12 @@ This project uses **mock data** for employees and leave balances.
 
 No real employee information is used. All data is generated for demonstration and educational purposes only.
 
+---
+
+## 🛠 Installation
+
+To install the required packages, run:
+
+```bash
+pip install -r requirements.txt
+
